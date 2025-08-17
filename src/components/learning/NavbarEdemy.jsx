@@ -13,9 +13,9 @@ const NavbarEdemy = () => {
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center md:justify-between px-6 py-4 gap-3">
         <Link to="/" className="flex items-center gap-3">
           <img src={assets.logo} alt="Logo" className="h-12 w-auto" />
-          <span className="text-2xl font-extrabold bg-gradient-to-r from-blue-600 via-blue-400 to-cyan-400 bg-clip-text text-transparent drop-shadow-sm tracking-wide">
+          {/* <span className="text-2xl font-extrabold bg-gradient-to-r from-blue-600 via-blue-400 to-cyan-400 bg-clip-text text-transparent drop-shadow-sm tracking-wide">
             Learning
-          </span>
+          </span> */}
         </Link>
         <div className="flex gap-3 mt-2 md:mt-0">
           <Link

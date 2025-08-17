@@ -48,7 +48,7 @@ const Navbar = () => {
                 src={assets.logo}
                 alt="Logo"
               />
-               <span className="text-xl font-extrabold bg-gradient-to-r from-blue-600 via-blue-400 to-cyan-400 bg-clip-text text-transparent drop-shadow-sm tracking-wide"> Learning </span>
+               {/* <span className="text-xl font-extrabold bg-gradient-to-r from-blue-600 via-blue-400 to-cyan-400 bg-clip-text text-transparent drop-shadow-sm tracking-wide"> Learning </span> */}
             </Link>
           </div>
 
